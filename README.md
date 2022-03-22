@@ -1,4 +1,4 @@
-# flutter_practice
+# CatalogApp
 
 A new Flutter project.
 
