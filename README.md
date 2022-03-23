@@ -1,6 +1,7 @@
 # CatalogApp
 
 A new Flutter project.
+30 days of Flutter
 
 ## Getting Started
 
