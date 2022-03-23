@@ -1,0 +1,67 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "iPhone 13 Pro Max (Green)",
+            "description": "Apple iPhone 13th generation",
+            "price": 1299,
+            "color": "#33505a",
+            "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6487/6487447_sd.jpg"
+        },
+        {
+            "id": 2,
+            "name": "BOAT Airdopes 381",
+            "description": "BOAT Airdopes 381 - In Ear Wireless Earbuds",
+            "price": 20,
+            "color": "#00ac51",
+            "image": "https://cdn.shopify.com/s/files/1/0623/5167/1541/products/3c53a1e3-bffe-4c6d-b102-cc409c1bfe71_377b31db-9a89-4cb8-953f-30290dd694f5.png?v=1642999130"
+        },
+        {
+            "id": 3,
+            "name": "Apple Macbook Pro 16'",
+            "description": "Apple Macbook Pro 16 M1 Pro with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-silver-select-202110?wid=1808&hei=1686&fmt=jpeg&qlt=80&.v=1632788573000"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "description": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://i1.wp.com/freepngimages.com/wp-content/uploads/2020/07/Playstation-5-games-console-transparent-background-png-image.png?fit=1000%2C1000"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "description": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "description": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "description": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "description": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        }
+    ]
+}
