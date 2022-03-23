@@ -1,27 +1,27 @@
 {
     "products": [{
             "id": 1,
-            "name": "iPhone 12 Pro",
-            "description": "Apple iPhone 12th generation",
+            "name": "iPhone 13 Pro Max (Green)",
+            "description": "Apple iPhone 13th generation",
             "price": 999,
             "color": "#33505a",
-            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
+            "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6487/6487447_sd.jpg"
         },
         {
             "id": 2,
-            "name": "Pixel 5",
-            "description": "Google Pixel phone 5th generation",
-            "price": 699,
+            "name": "BOAT Airdopes 381",
+            "description": "BOAT Airdopes 381 - In Ear Wireless Earbuds",
+            "price": 20,
             "color": "#00ac51",
-            "image": "https://www.telstra.com.au/content/dam/tcom/lego/2020/plans-devices/mobiles/google-pixel-5/shared-google-pixel-5-black-05-900x1200.png"
+            "image": "https://cdn.shopify.com/s/files/1/0623/5167/1541/products/3c53a1e3-bffe-4c6d-b102-cc409c1bfe71_377b31db-9a89-4cb8-953f-30290dd694f5.png?v=1642999130"
         },
         {
             "id": 3,
-            "name": "M1 Macbook Air",
-            "description": "Apple Macbook air with apple silicon",
+            "name": "Apple Macbook Pro 16'",
+            "description": "Apple Macbook Pro 16 M1 Pro with apple silicon",
             "price": 1099,
             "color": "#e0bfae",
-            "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-silver-select-202110?wid=1808&hei=1686&fmt=jpeg&qlt=80&.v=1632788573000"
         },
         {
             "id": 4,
