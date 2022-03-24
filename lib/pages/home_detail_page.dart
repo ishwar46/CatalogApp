@@ -66,7 +66,7 @@ class HomeDetailPage extends StatelessWidget {
                       10.heightBox,
                       "Eiusmod elit sint minim pariatu Et qui ipsum enim ex nulla enim cillum. derit voluptate. Id irure nisi proident dolore aliqua in anim labore tempor aliqua."
                           .text
-                          .color(Colors.white)
+                          .color(Vx.blue300)
                           .make()
                           .p16(),
                     ],
