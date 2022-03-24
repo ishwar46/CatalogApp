@@ -8,8 +8,8 @@ class CatalogHeader extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        "Gadget Sansar".text.xl3.bold.color(MyTheme.darkBluishColor).make(),
-        "Trending Products".text.xl2.make(),
+        "The Book Spot".text.xl3.bold.color(MyTheme.darkBluishColor).make(),
+        "Trending Books".text.xl2.make(),
       ],
     );
   }
