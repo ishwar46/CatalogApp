@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_practice/models/catalog.dart';
 import 'package:flutter_practice/widgets/themes.dart';
@@ -16,9 +18,9 @@ class HomeDetailPage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
       ),
-      backgroundColor: MyTheme.creamColor,
+      backgroundColor: context.canvasColor,
       bottomNavigationBar: Container(
-        color: Colors.white,
+        color: context.canvasColor,
         child: ButtonBar(
           alignment: MainAxisAlignment.spaceBetween,
           buttonPadding: EdgeInsets.zero,
@@ -52,22 +54,19 @@ class HomeDetailPage extends StatelessWidget {
                 arcType: VxArcType.CONVEY,
                 edge: VxEdge.TOP,
                 child: Container(
-                  color: Colors.white,
+                  color: context.cardColor,
                   width: context.screenWidth,
                   child: Column(
                     children: [
                       catalog.name.text.xl2
-                          .color(MyTheme.darkBluishColor)
+                          .color(context.accentColor)
                           .bold
                           .make(),
-                      catalog.description.text
-                          .color(Colors.lightBlue)
-                          .xl
-                          .make(),
+                      catalog.description.text.color(Colors.grey).xl.make(),
                       10.heightBox,
                       "Eiusmod elit sint minim pariatu Et qui ipsum enim ex nulla enim cillum. derit voluptate. Id irure nisi proident dolore aliqua in anim labore tempor aliqua."
                           .text
-                          .color(Colors.black45)
+                          .color(Colors.white)
                           .make()
                           .p16(),
                     ],
