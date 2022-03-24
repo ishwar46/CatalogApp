@@ -45,10 +45,11 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       floatingActionButton: FloatingActionButton(
         onPressed: () => Navigator.pushNamed(context, MyRoutes.cartRoute),
-        backgroundColor: MyTheme.darkBluishColor,
+        backgroundColor:
+            context.theme.floatingActionButtonTheme.backgroundColor,
         child: Icon(CupertinoIcons.cart_fill),
       ),
-      backgroundColor: MyTheme.creamColor,
+      backgroundColor: context.canvasColor,
       body: SafeArea(
         child: Container(
           padding: Vx.m32,
