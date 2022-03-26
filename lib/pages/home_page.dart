@@ -24,6 +24,8 @@ class _HomePageState extends State<HomePage> {
 
   final String name = "Ishwar";
 
+  final url = "";
+
   @override
   void initState() {
     super.initState();
@@ -58,7 +60,7 @@ class _HomePageState extends State<HomePage> {
             color: Colors.white,
           ),
         ).badge(
-            color: Vx.red500,
+            color: Vx.gray600,
             size: 20,
             count: _cart.items.length,
             textStyle: TextStyle(
