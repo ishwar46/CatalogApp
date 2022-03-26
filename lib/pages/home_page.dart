@@ -12,6 +12,7 @@ import 'package:flutter_practice/widgets/home_widgets/catalog_list.dart';
 //import 'package:flutter_practice/widgets/item_widget.dart';
 import 'package:flutter_practice/widgets/themes.dart';
 import 'package:velocity_x/velocity_x.dart';
+import 'package:http/http.dart' as http;
 
 class HomePage extends StatefulWidget {
   @override
